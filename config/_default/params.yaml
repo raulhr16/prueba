@@ -3,7 +3,7 @@
 ############################
 
 author:
-  name: "Qubt"
+  name: "Raul"
   image: author.jpeg
   greeting: "A personal blog theme for Hugo :evergreen_tree:"
   icon: ":wave:"
@@ -13,8 +13,8 @@ author:
 ############################
 
 links:
-  - github: https://github.com/chrede88/qubt
-  - facebook: https://github.com/chrede88/qubt
+  - github: https://github.com/raulhr16/prueba
+  # - facebook: https://github.com/chrede88/qubt
   # - x-twitter:
   # - mastodon:
   # - linkedin: 
