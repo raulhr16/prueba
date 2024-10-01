@@ -1,33 +1,32 @@
 ---
-title: Blog Post with Inline Images
-subtitle: "Blog post subtitle :zap:"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+title: 'Mi equipo'
+subtitle: "Real Madrid FC :soccer:"
+summary: Ser madridista es algo que me define desde que tengo uso de razón. Nací en una familia que siempre ha sido fiel al Real Madrid, y mi nombre, Raúl, es un tributo al gran capitán Raúl González Blanco, uno de los jugadores más icónicos en la historia del club. Desde pequeño, crecí viendo los partidos, sufriendo y celebrando con cada victoria o derrota, y eso ha marcado mi vida de una manera profunda.
 date: 2023-11-24
 cardimage: photo1_card.jpeg
 featureimage: photo1.jpeg
-caption: Image caption
+caption: Real Madrid, un legado de grandeza
 authors:
   - Christian: author.jpeg
 ---
-Use the shortcode "figArray" to add images to your blog post. Add your images to a subfolder. Call the figArray shortcode using the following syntax:
+Ser madridista es algo que me define desde que tengo uso de razón. Nací en una familia que siempre ha sido fiel al Real Madrid, y mi nombre, Raúl, es un tributo al gran capitán Raúl González Blanco, uno de los jugadores más icónicos en la historia del club. Desde pequeño, crecí viendo los partidos, sufriendo y celebrando con cada victoria o derrota, y eso ha marcado mi vida de una manera profunda.
 
-```
-{{</* figArray subfolder="<subfoldername>" figCaption="Some caption" numCols=2 */>}}
-```
-Both "figCaption" and "numCols" are optional. The shortcode will try to guess the best number of columns to use for the array of figures if "numCols" is not passed.
-You will need one subfolder containing images per call to the shortcode. The image files need to be one of the following types: png, jpg, jpeg or webp.
+El Real Madrid no es solo un equipo de fútbol, es un símbolo de lucha, de superación y de grandeza. A lo largo de los años, he sido testigo de momentos históricos, como las numerosas victorias en la Liga de Campeones, incluyendo la más reciente, la de la temporada 23/24. Esta última Champions representa no solo la habilidad de los jugadores, sino también el carácter indomable del club, que siempre busca más, que nunca se conforma.
 
-{{< figArray subfolder="images" figCaption="A nice figure caption :wave:" >}}
+Más allá de los títulos y las hazañas en el campo, lo que más me llena de orgullo como madridista es la mentalidad del equipo. La famosa "cabeza fría y corazón caliente" que siempre han demostrado leyendas como Raúl, Cristiano Ronaldo, Sergio Ramos, y más recientemente, Karim Benzema y Luka Modrić. Ellos encarnan los valores que hacen al Real Madrid diferente a cualquier otro club: la perseverancia, la resiliencia y la ambición. No importa lo difícil que sea el reto, el Madrid siempre lucha hasta el final, y esa es una de las razones por las que amo este equipo.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere :zap:.
+**Los valores que hacen grande al Real Madrid**
+- **Historia:** Fundado en 1902, el club tiene una trayectoria llena de éxitos que lo ha posicionado como el más grande del mundo.
+- **Grandeza y ambición:** Desde los tiempos de Alfredo Di Stéfano hasta los de Vinícius Jr., el Real Madrid siempre ha tenido jugadores y momentos que han hecho historia.
+- **Resiliencia:** En el Madrid, nunca se da un partido por perdido. Este equipo ha demostrado en muchas ocasiones que hasta el último minuto, todo es posible.
+- **Unidad:** El espíritu de equipo, la conexión entre los jugadores y la afición, es algo que hace que el Real Madrid sea incomparable.
 
-**Heading**
-- List item 1
-- List item 2
-- List item 3
 
-Cras ligula velit, aliquet ac orci dapibus, molestie ultricies libero. Donec at bibendum est. Phasellus vulputate dapibus quam vel accumsan. Curabitur at felis euismod, lobortis urna id, lobortis dolor. Cras tortor ligula, euismod quis lacus faucibus, condimentum fringilla dolor. Mauris in maximus nisi. Phasellus facilisis lacus quis mi cursus, a ornare mi maximus. Nullam nunc lacus, tincidunt varius risus nec, pellentesque vulputate ligula. Etiam id purus et tortor porta mattis. Donec id sapien nulla. Vivamus at malesuada tellus, id ultricies ante. Maecenas ullamcorper mi massa, at rutrum risus aliquet a. Donec sem tortor, molestie quis ex a, faucibus commodo augue. Morbi convallis sem vel tellus facilisis, et sodales felis consequat. Aliquam ut ante tristique, volutpat lectus vestibulum, egestas sapien.
+{{< figArray subfolder="images" figCaption="El equipo celebrando :wave:" >}}
 
-Donec tellus est, faucibus eget ultricies ac, posuere non augue. Fusce ultrices lectus quis nunc lacinia, non tincidunt lectus ultrices. Morbi sodales nisi at felis luctus, eu convallis tortor commodo. Morbi tristique nibh neque, vel tristique dolor laoreet eget. Phasellus felis erat, mattis at suscipit id, faucibus in dolor. In vitae odio at lectus tincidunt dignissim. Fusce risus nisl, hendrerit a ultricies vitae, porta id sapien. Nam elit nunc, hendrerit ut sem quis, ultrices varius leo. Nullam eget lectus in sapien venenatis iaculis at at turpis. Etiam iaculis magna porttitor augue tempus suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam suscipit nibh leo, in pellentesque urna luctus et. Duis diam ipsum, posuere nec tellus sit amet, dignissim feugiat massa. Etiam ut sollicitudin lorem. Quisque commodo libero non mauris viverra malesuada. Morbi vitae auctor felis.
+Cada vez que el Madrid sale al campo, me recuerda por qué amo este deporte. Desde los goles decisivos hasta los momentos de tensión en los últimos minutos, ser madridista es un orgullo constante. No es solo cuestión de ganar títulos, es el sentimiento de formar parte de una historia más grande, de algo inmortal.
 
-Maecenas ac dignissim dolor. Sed vitae nisl vel ante rutrum tincidunt ac et diam. Integer id dignissim quam. Vestibulum quis enim sit amet tellus tincidunt sagittis ut vitae nunc. Sed hendrerit, quam ut fermentum imperdiet, augue purus cursus felis, in ultricies elit mauris in risus. Morbi hendrerit imperdiet vehicula. Etiam porttitor magna eu quam laoreet ullamcorper. Etiam a erat ante. Curabitur pharetra, lacus in porttitor cursus, libero lacus consectetur dui, sit amet auctor tellus magna et enim. Pellentesque tristique molestie fringilla. Vivamus sit amet tincidunt quam. Morbi eu nisi quam. Nunc ultrices vel sem sit amet aliquam.
+Como seguidor incondicional, he aprendido que la gloria no siempre llega fácil, pero con trabajo duro y dedicación, siempre llega. Esa es la esencia de ser madridista: nunca rendirse, siempre soñar en grande y estar dispuesto a darlo todo por el escudo.
+
+¡Hala Madrid y nada más!
+

@@ -3,12 +3,12 @@
 ############################
 
 main:
-- name: Home
+- name: Inicio
   url: /
   weight: 10
 - name: Blog
   url: /blog/
   weight: 20
-- name: About
+- name: Sobre mi
   url: /about/
   weight: 30

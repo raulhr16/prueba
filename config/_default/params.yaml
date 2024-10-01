@@ -3,7 +3,7 @@
 ############################
 
 author:
-  name: "Raul"
+  name: "Raul Herrera"
   image: author.jpeg
   greeting: "Practica de IAW de rauli"
   icon: ":soccer:"
@@ -13,7 +13,7 @@ author:
 ############################
 
 links:
-  - github: https://github.com/raulhr16/prueba
+  - github: https://github.com/raulhr16
   # - facebook: https://github.com/chrede88/qubt
   - x-twitter: https://x.com/raulhr16
   # - mastodon:

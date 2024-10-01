@@ -1,10 +1,9 @@
 ---
-title: Blog Post With Extra Long Title
+title: Mi deporte
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 date: 2023-11-23
 cardimage: photo2_card.jpeg
 featureimage: photo2.jpeg
-caption: "Image caption :tada:"
 authors:
   - Jane Doe: author.jpeg
   - John Doe: author.jpeg
