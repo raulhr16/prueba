@@ -4,6 +4,7 @@ summary: El deporte que más tiempo ocupa en mi vida actualmente es el pádel. D
 date: 2023-11-23
 cardimage: photo2_card.jpeg
 featureimage: photo2.jpeg
+caption: La pasión por el pádel
 authors:
   - Jane Doe: author.jpeg
   - John Doe: author.jpeg
