@@ -1,6 +1,6 @@
 ---
 title: Mi deporte
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+summary: El deporte que más tiempo ocupa en mi vida actualmente es el pádel. Desde que descubrí este deporte, se ha convertido en una parte esencial de mi día a día. No solo estoy federado, sino que también me encanta disfrutar de cada momento en la pista, ya sea entrenando o compitiendo. El pádel es mucho más que un simple pasatiempo para mí; es una pasión que me llena de energía y me ayuda a desconectar de la rutina.
 date: 2023-11-23
 cardimage: photo2_card.jpeg
 featureimage: photo2.jpeg
@@ -9,17 +9,10 @@ authors:
   - John Doe: author.jpeg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere :zap:.
+El deporte que más tiempo ocupa en mi vida actualmente es el pádel. Desde que descubrí este deporte, se ha convertido en una parte esencial de mi día a día. No solo estoy federado, sino que también me encanta disfrutar de cada momento en la pista, ya sea entrenando o compitiendo. El pádel es mucho más que un simple pasatiempo para mí; es una pasión que me llena de energía y me ayuda a desconectar de la rutina.
 
-**Heading**
-- List item 1
-- List item 2
-- List item 3
+Una de las cosas que más me gusta del pádel es su combinación perfecta de técnica y estrategia. Es un deporte que, aunque sencillo de aprender, ofrece infinitas posibilidades de mejorar y perfeccionarse. La velocidad, la precisión y el trabajo en equipo son clave, lo que lo convierte en una actividad emocionante y desafiante. Cada partido es una nueva oportunidad para probarme a mí mismo, superarme y disfrutar del juego con mis compañeros.
 
-Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et. Duis auctor, lectus nec vehicula suscipit, sapien erat pellentesque augue, pulvinar tempus sapien leo sit amet erat. Proin porta, mauris vitae aliquet consectetur, erat eros maximus turpis, at suscipit nibh urna id leo. Nunc commodo sed diam ut aliquet. Duis eros mi, ullamcorper sit amet ex id, aliquet dignissim libero. Fusce at turpis eget nisl feugiat cursus eget vitae elit. Integer auctor enim vel orci fringilla facilisis. Praesent ac euismod tellus.
+Además, el ambiente que rodea al pádel es algo que aprecio mucho. Es un deporte social, que te permite conocer gente nueva y compartir buenos momentos tanto dentro como fuera de la pista. Ya sea en torneos o en partidos casuales, siempre hay esa camaradería entre jugadores que hace que el pádel sea especial. No importa si ganas o pierdes, lo importante es disfrutar del deporte y mejorar en cada oportunidad.
 
-Cras ligula velit, aliquet ac orci dapibus, molestie ultricies libero. Donec at bibendum est. Phasellus vulputate dapibus quam vel accumsan. Curabitur at felis euismod, lobortis urna id, lobortis dolor. Cras tortor ligula, euismod quis lacus faucibus, condimentum fringilla dolor. Mauris in maximus nisi. Phasellus facilisis lacus quis mi cursus, a ornare mi maximus. Nullam nunc lacus, tincidunt varius risus nec, pellentesque vulputate ligula. Etiam id purus et tortor porta mattis. Donec id sapien nulla. Vivamus at malesuada tellus, id ultricies ante. Maecenas ullamcorper mi massa, at rutrum risus aliquet a. Donec sem tortor, molestie quis ex a, faucibus commodo augue. Morbi convallis sem vel tellus facilisis, et sodales felis consequat. Aliquam ut ante tristique, volutpat lectus vestibulum, egestas sapien.
-
-Donec tellus est, faucibus eget ultricies ac, posuere non augue. Fusce ultrices lectus quis nunc lacinia, non tincidunt lectus ultrices. Morbi sodales nisi at felis luctus, eu convallis tortor commodo. Morbi tristique nibh neque, vel tristique dolor laoreet eget. Phasellus felis erat, mattis at suscipit id, faucibus in dolor. In vitae odio at lectus tincidunt dignissim. Fusce risus nisl, hendrerit a ultricies vitae, porta id sapien. Nam elit nunc, hendrerit ut sem quis, ultrices varius leo. Nullam eget lectus in sapien venenatis iaculis at at turpis. Etiam iaculis magna porttitor augue tempus suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam suscipit nibh leo, in pellentesque urna luctus et. Duis diam ipsum, posuere nec tellus sit amet, dignissim feugiat massa. Etiam ut sollicitudin lorem. Quisque commodo libero non mauris viverra malesuada. Morbi vitae auctor felis.
-
-Maecenas ac dignissim dolor. Sed vitae nisl vel ante rutrum tincidunt ac et diam. Integer id dignissim quam. Vestibulum quis enim sit amet tellus tincidunt sagittis ut vitae nunc. Sed hendrerit, quam ut fermentum imperdiet, augue purus cursus felis, in ultricies elit mauris in risus. Morbi hendrerit imperdiet vehicula. Etiam porttitor magna eu quam laoreet ullamcorper. Etiam a erat ante. Curabitur pharetra, lacus in porttitor cursus, libero lacus consectetur dui, sit amet auctor tellus magna et enim. Pellentesque tristique molestie fringilla. Vivamus sit amet tincidunt quam. Morbi eu nisi quam. Nunc ultrices vel sem sit amet aliquam.
+Para mí, el pádel es más que un deporte; es una pasión que me impulsa a seguir aprendiendo, a esforzarme y a disfrutar de cada momento en la pista. Con cada partido, me enamoro un poco más de este deporte y todo lo que lo rodea.
