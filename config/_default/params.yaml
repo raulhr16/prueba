@@ -5,7 +5,7 @@
 author:
   name: "Raul"
   image: author.jpeg
-  greeting: "A personal blog theme for Hugo :evergreen_tree:"
+  greeting: "Practica de IAW de rauli"
   icon: ":wave:"
 
 ############################
@@ -15,10 +15,10 @@ author:
 links:
   - github: https://github.com/raulhr16/prueba
   # - facebook: https://github.com/chrede88/qubt
-  # - x-twitter:
+  - x-twitter: https://x.com/raulhr16
   # - mastodon:
   # - linkedin: 
-  # - instagram:
+  - instagram: https://www.instagram.com/raulhr16/
   # - reddit: 
   # - telegram: 
   # - whatsapp: 
