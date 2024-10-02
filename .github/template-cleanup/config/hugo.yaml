@@ -2,7 +2,7 @@
 ## CHANGE THESE
 ############################
 
-baseURL: 'https://%USER%.github.io/%NAME%'
+baseURL: 'https://github.com/raulhr16/html-iaw'
 title: %NAME%
 
 ############################

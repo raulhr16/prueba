@@ -24,7 +24,7 @@ All configuration is done in the four configuration files under `config/_default
 
 `hugo.yaml`:
 ```yaml
-baseURL: 'https://%USER%.github.io/%NAME%'
+baseURL: 'https://github.com/raulhr16/html-iaw'
 title: 'Qubt Theme'
 ```
 
